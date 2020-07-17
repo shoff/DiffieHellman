@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffieHellman", "DiffieHellman\DiffieHellman.csproj", "{1D3F8869-79C7-49B1-B4BC-07CC59D5EDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffieHellman.Tests", "DiffieHellman.Tests\DiffieHellman.Tests.csproj", "{2A0ED836-7590-4EB0-975B-416E5D552B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3F8869-79C7-49B1-B4BC-07CC59D5EDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3F8869-79C7-49B1-B4BC-07CC59D5EDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3F8869-79C7-49B1-B4BC-07CC59D5EDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3F8869-79C7-49B1-B4BC-07CC59D5EDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0ED836-7590-4EB0-975B-416E5D552B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0ED836-7590-4EB0-975B-416E5D552B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0ED836-7590-4EB0-975B-416E5D552B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0ED836-7590-4EB0-975B-416E5D552B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E99D64-873A-4843-988D-EB9F2BF6F85E}
+	EndGlobalSection
+EndGlobal
